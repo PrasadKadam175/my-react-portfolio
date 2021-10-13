@@ -5,7 +5,7 @@ export const projects = [
     image: '/images/Flipcart_clone.png',
     tags: ['React', 'JavaScript'],
     source: 'https://github.com/PrasadKadam175/Filpkart-Clone',
-    visit: 'https://google.com',
+    visit: 'https://github.com/PrasadKadam175/Filpkart-Clone',
     id: 0,
   },
 ];
