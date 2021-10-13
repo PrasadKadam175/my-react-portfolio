@@ -4,7 +4,7 @@ export const projects = [
     description:"Flipcart clone build with mern stack with feactures like login, sign-up, add to cart and other features currently working on it.",
     image: '/images/Flipcart_clone.png',
     tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
+    source: 'https://github.com/PrasadKadam175/Filpkart-Clone',
     visit: 'https://google.com',
     id: 0,
   },
