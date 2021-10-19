@@ -8,6 +8,15 @@ export const projects = [
     visit: 'https://github.com/PrasadKadam175/Filpkart-Clone',
     id: 0,
   },
+  {
+    title: 'Dec.Crypto',
+    description:"Dec.Crypto is live crypto currency tracking web-app to get market price of over 100 crypto currency build using React Js, Chart Js, Material UI and Gecko API for data.",
+    image: '/images/crypto-app.png',
+    tags: ['React', 'JavaScript', 'Chart Js', 'Material UI'],
+    source: 'https://github.com/PrasadKadam175/Dec.Crypto',
+    visit: 'https://github.com/PrasadKadam175/Dec.Crypto',
+    id: 1,
+  }
 ];
 
 export const TimeLineData = [
